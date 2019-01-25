@@ -19,3 +19,9 @@
  * [手动CA签证书并验证](https://blog.csdn.net/mellymengyan/article/details/80765472)  
  * [Fabric CA环境集成](https://www.cnblogs.com/studyzy/p/7482451.html)  
  * [CA自动化分布式部署脚本](https://github.com/hutu92)  
+
+**10.Hyperledger源码解读**  
+[链接一](https://blog.csdn.net/lsttoy/article/details/73189106)  
+[链接二](https://blog.csdn.net/idsuf698987)  
+
+**11.[Hyperledger Caliper 区块链性能测试工具](https://blog.csdn.net/get_set/article/details/81055220)**  
